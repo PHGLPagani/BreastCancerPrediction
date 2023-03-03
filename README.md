@@ -13,6 +13,7 @@ The API connection's username and key were removed for privacy reasons. You can 
 It uses Logistic Regression to train a model on about 30 parameters to predict breast cancer.
 
 The final output of the code uses Seaborn to plot a heat map of a confusion matrix
+
 #[TruePositive,FalsePositive]-->[TP,FP]-->[GOOD,Type1Error]
 
 #[FalseNegative,TrueNegative]-->[FN,TN]-->[Type2Error,GOOD]
