@@ -8,7 +8,7 @@ This project uses data from a public dataset uploaded to Kaggle, that can be fou
 
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
-The API connection's username and key were removed for privacy reasons. You can get a username and key by creating your Kaggle account.
+*The API connection's username and key were removed for privacy reasons. You can get a username and key by creating your Kaggle account.*
 
 It uses Logistic Regression to train a model on about 30 parameters to predict breast cancer.
 
