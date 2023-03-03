@@ -14,6 +14,7 @@ It uses Logistic Regression to train a model on about 30 parameters to predict b
 
 The final output of the code uses Seaborn to plot a heat map of a confusion matrix
 #[TruePositive,FalsePositive]-->[TP,FP]-->[GOOD,Type1Error]
+
 #[FalseNegative,TrueNegative]-->[FN,TN]-->[Type2Error,GOOD]
 
 This is what it may look like:
